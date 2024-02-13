@@ -41,6 +41,6 @@ public class cal2 {
                 System.out.println("Invalid operation.");
         }
 
-        scanner.close();
+        //scanner.close();
     }
 }
